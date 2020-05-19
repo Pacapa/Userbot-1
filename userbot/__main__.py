@@ -26,7 +26,7 @@ except PhoneNumberInvalidError:
 for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
-LOGS.info("This is a fallback for One4uBot main UserBot.")
+LOGS.info("This is a fallback for RTID-uBot main UserBot.")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
