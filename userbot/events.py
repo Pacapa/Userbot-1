@@ -93,17 +93,17 @@ def register(**args):
                     date = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 
                     text = "**USERBOT ERROR REPORT**\n"
-                    link = "[Userbot Indo Support](https://t.me/userbotindo)"
-                    text += "If you want to, you can report it"
-                    text += f". Head and forward this message to {link}.\n"
-                    text += "Nothing is logged except the fact of error and date\n"
+                    link = "[Republik Telegram ID](https://t.me/Republik_TelegramID)"
+                    text += "Jika kamu mau, kamu bisa melaporkannya"
+                    text += f".Ingat dan forward pesan ini ke {link}.\n"
+                    text += "Tidak ada yang dicatat kecuali fakta kesalahan dan tanggal\n"
 
                     ftext = "========== DISCLAIMER =========="
-                    ftext += "\nThis file uploaded ONLY here,"
-                    ftext += "\nwe logged only fact of error and date,"
-                    ftext += "\nwe respect your privacy,"
-                    ftext += "\nyou may not report this error if you've"
-                    ftext += "\nany confidential data here, no one will see your data\n"
+                    ftext += "\nFile ini Hanya di upload DISINI,"
+                    ftext += "\nKami hanya mencatat fakta dari kesalahan dan tanggal saja,"
+                    ftext += "\nKami menghargai privasimu,"
+                    ftext += "\nAnda tidak perlu melaporkan kesalahan ini jika sudah anda lakukan"
+                    ftext += "\ndata rahasia apa pun di sini, tidak ada yang akan melihatnya\n"
                     ftext += "================================\n\n"
                     ftext += "--------BEGIN USERBOT TRACEBACK LOG--------\n"
                     ftext += "\nDate: " + date
@@ -136,8 +136,8 @@ def register(**args):
 
                     if LOGSPAMMER:
                         await check.client.respond(
-                            "`Sorry, my userbot has crashed."
-                            "\nThe error logs are stored in the userbot's log chat.`"
+                            "`Maaf, Userbotku Tiba-tiba rusak."
+                            "\nCatatan error telah di setor ke Grup Chat Userbot Anda.`"
                         )
 
                         await check.client.send_file(send_to,
