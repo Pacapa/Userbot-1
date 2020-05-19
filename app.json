@@ -1,11 +1,11 @@
 {
-  "name": "One4uBot Userbot Fallback Project",
-  "description": "[One4uBot] A modular Telegram userbot running on Python 3.8, this is a fallback for main userbot.",
+  "name": "RTID Platform Userbot Fallback Project",
+  "description": "[RTID-uBot] A modular Telegram userbot running on Python 3.8, this is a fallback for main userbot.",
   "keywords": [
     "telegram",
     "userbot"
   ],
-  "repository": "https://github.com/MoveAngel/One4uBot",
+  "repository": "https://github.com/Zack-CoreID/Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -41,7 +41,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Your forked repo.",
-      "value": "https://github.com/MoveAngel/One4uBot",
+      "value": "https://github.com/Zack-CoreID/Userbot",
       "required": true
     },
     "MAIN_REPO_BRANCH": {
