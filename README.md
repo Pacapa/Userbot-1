@@ -1,4 +1,4 @@
-# One4uBot Userbot Fallback Project
+# RTID-uBot Userbot Fallback Project
 
 ![logo](https://telegra.ph/file/9b329a3aeaf87c92c4811.jpg)
 
@@ -24,13 +24,11 @@ The easiest way to deploy this great bot! is click on button below
 Make sure you have an account of heroku and follow all the steps required.
 
 Deploy to Heroku:
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MoveAngel/One4uBot/tree/fallback"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Zack-CoreID/Userbot/tree/fallback"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Groups and support
 
-if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/userbotindocloud).
-
-For discussion, bug reporting, and help, you can join [Userbotindo Support Group](https://t.me/userbotindo).
+if you want new features, discussion, bug reporting, and help, you can join [Republik Telegram ID](https://t.me/Republik_TelegramID).
 
 ## Credits
 
@@ -38,9 +36,10 @@ Thanks for all :
 * [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 * [AdekMaulana](https://github.com/adekmaulana) - ProjectBish
 * [Mr.Miss](https://github.com/keselekpermen69) - Userbutt
+* [MoveAngel](https://github.com/MoveAngel) - One4uBot
 
 and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
 
 ## License
 
-This userbot licensed on [Raphielscape Public License](https://github.com/MoveAngel/One4uBot/blob/sql-extended/LICENSE) - Version 1.d, February 2020
+This userbot licensed on [Raphielscape Public License](https://github.com/Zack-CoreID/Userbot/blob/sql-extended/LICENSE) - Version 1.d, May 2020
