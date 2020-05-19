@@ -84,8 +84,8 @@ async def bot_community(community):
 async def bot_support(wannahelp):
     """ For .support command, just returns the group link. """
     await wannahelp.edit(
-        "Join Our UserbotIndo Channel: @userbotindocloud \
-        \nJoin Userbot Indo Support Group: @userbotindo")
+        "Join Our RTID Channel: @Republik_Telegram \
+        \nJoin Republik Telegram ID Support Group: @Republik_TelegramID")
 
 
 @register(outgoing=True, pattern="^.creator$")
@@ -93,7 +93,7 @@ async def creator(ereee):
     """ See who create this userbot. """
     await ereee.edit(
         "Creator of this userbot:"
-        "\n• 💘 [MoveAngel](https://github.com/MoveAngel) 💘")
+        "\n• 💘 [Zack](https://github.com/Zack-CoreID) 💘")
 
 
 @register(outgoing=True, pattern="^.readme$")
@@ -128,7 +128,7 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "[Click here](https://github.com/MoveAngel/One4uBot) to open One4uBot's GitHub page."
+        "[Click here](https://github.com/Zack-CoreID/Userbot) to open RTID-uBot's GitHub page."
     )
 
 
