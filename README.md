@@ -1,4 +1,4 @@
-# One4uBot userbot project
+# RTID-uBot userbot project
 [![Build](https://github.com/Zack-CoreID/Userbot/workflows/FailedChecker/badge.svg?branch=sql-extended)](https://github.com/MoveAngel/One4uBot/actions "Build") [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e35faa6a680f4d66abdffddaad76e418)](https://app.codacy.com/manual/MoveAngel/One4uBot?utm_source=github.com&utm_medium=referral&utm_content=MoveAngel/One4uBot&utm_campaign=Badge_Grade_Dashboard) ![Last Commit](https://img.shields.io/github/last-commit/MoveAngel/One4uBot/sql-extended) ![Contributors](https://img.shields.io/github/contributors/MoveAngel/One4uBot?color=LightSlateGrey)
 
 ![logo]()
@@ -29,9 +29,7 @@ Deploy to Heroku:
 
 ## Groups and support
 
-if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/userbotindocloud).
-
-For discussion, bug reporting, and help, you can join [Userbotindo Support Group](https://t.me/userbotindo).
+if you want new features, or announcements, For discussion, bug reporting, and help, you can join [Republik Telegram ID Support Group](https://t.me/Republik_TelegramID).
 
 ## Credits
 
@@ -45,7 +43,7 @@ Thanks for all :
 * [DevPatel](https://github.com/Devp73) - UserBot1
 * [MoveAngel](https://github.com/MoveAngel) - One4uBot
 
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
+and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/Zack-CoreID/Userbot/graphs/contributors).
 
 ## License
 
